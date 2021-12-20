@@ -17,13 +17,14 @@
         <module>slimeworldmanager-nms-v116-4-5</module>
         <module>slimeworldmanager-nms-v117-0</module>
         <module>slimeworldmanager-nms-v117-1</module>
+        <module>slimeworldmanager-nms-v118-1</module>
     </modules>
 
     <repositories>
-        <repository>
+        <!--<repository>
             <id>private-snapshots</id>
             <url>https://repo.rapture.pw/repository/private-snapshots/</url>
-        </repository>
+        </repository>-->
         <repository>
             <id>spigot-repo</id>
             <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
